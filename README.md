@@ -14,3 +14,8 @@ In essence, this thesis highlights the potential of prompt-based continual learn
 
 Keywords: Image Captioning, Continual Learning, Prompt-Based Continual Learning, LGCL. 
 
+
+
+Replicating results:
+
+
