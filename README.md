@@ -16,6 +16,7 @@ Keywords: Image Captioning, Continual Learning, Prompt-Based Continual Learning,
 
 
 
-Replicating results:
+Steps to run the code:
+
 
 
