@@ -1,6 +1,5 @@
 # LGCL_IMG_CAP
-Implementation of Language Guidance into an Image Captioning model (combination of Vit_base_224_16 and GPT2), to mitigate cathastrophic forgetting during continual learning.
-
+Github repository for Master's Thesis: Introducing Language Guidance to Mitigate Catastrophic Forgetting in Image Captioning
 
 Abstract
 
