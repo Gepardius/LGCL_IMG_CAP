@@ -11,19 +11,22 @@ In essence, this thesis highlights the potential of prompt-based continual learn
 
 
 
-Keywords: Image Captioning, Continual Learning, Prompt-Based Continual Learning, LGCL. 
+**Keywords:** Image Captioning, Continual Learning, Prompt-Based Continual Learning, LGCL. 
 
 
 
-Prerequisites:
+**Prerequisites:**
 1. Confirm that the MSCOCO dataset images for training (2014) are stored in the specified directory:
    **"data/MSCOCO/train2014/"**
 2. Install Required Dependencies:
    **pip install -r requirements.txt**
 3. Ensure cuda is available with the correct version:
   **CUDA version 12.1 (cu121)**
+4. Have available training and forgetting CSV files:
 
-Running the code:
+   .csv files: training_output.csv and forgetting_output.csv
+
+**Training the model:**
 1. Run python file:
   **main_gpt_LGCL_3_cont.py**
 
