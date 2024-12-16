@@ -1,5 +1,5 @@
 # LGCL_IMG_CAP
-Github repository for Master's Thesis: Introducing Language Guidance to Mitigate Catastrophic Forgetting in Image Captioning
+Github repository for Master's Thesis: **Introducing Language Guidance to Mitigate Catastrophic Forgetting in Image Captioning**
 
 **Abstract:**
 
