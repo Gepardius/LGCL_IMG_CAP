@@ -16,7 +16,16 @@ Keywords: Image Captioning, Continual Learning, Prompt-Based Continual Learning,
 
 
 
-Steps to run the code:
+Prerequisites:
+1. Confirm that the MSCOCO dataset images for training (2014) are stored in the specified directory:
+   **"data/MSCOCO/train2014/"**
+2. Install Required Dependencies:
+   **pip install -r requirements.txt**
+3. Ensure cuda is available with the correct version:
+  **CUDA version 12.1 (cu121)**
 
+Running the code:
+1. Run python file:
+  **main_gpt_LGCL_3_cont.py**
 
 
