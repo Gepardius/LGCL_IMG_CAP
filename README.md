@@ -1,7 +1,7 @@
 # LGCL_IMG_CAP
 Github repository for Master's Thesis: Introducing Language Guidance to Mitigate Catastrophic Forgetting in Image Captioning
 
-Abstract
+**Abstract:**
 
 This thesis explores prompt-based continual learning as a solution to catastrophic forgetting in image captioning. Continual learning models must learn incrementally across tasks without losing previously acquired knowledge. However, most continual learning research has focused on simpler tasks, like image classification, while image captioning remains mostly underexplored. Common continual learning strategies, such as regularization, rehearsal, and architecture-based methods, each have limitations like scalability issues and increased model complexity, particularly when applied to complex tasks like image captioning.
 Our research builds on recent advances in prompt-based continual learning, notably the Language Guidance for Prompt-based Continual Learning (LGCL) framework, which uses language as a stable semantic space to retain and transfer knowledge across tasks. LGCL aligns visual representations with language prompts, creating a shared semantic structure that helps mitigate forgetting. Inspired by this, we propose two novel prompt-based strategies with a pretrained Image Captioning model: the use of structured string prompts and a contrastive learning technique involving positive and negative prompts. The structured string prompt, applied at the beginning of each caption, consistently anchors the model’s focus, while contrastive learning differentiates between relevant and irrelevant visual features using a triplet loss function.
